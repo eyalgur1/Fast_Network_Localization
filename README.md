@@ -1,4 +1,4 @@
-# TDoA_Source_Localization
+# Fast_Network_Localization
 This code solves the Sensor Network Localization problem with anchor location uncertanties. 
 
 ## Citation
